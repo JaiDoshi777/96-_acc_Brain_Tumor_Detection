@@ -22,3 +22,13 @@ A. Data Preprocessing
 4. ImageDataGenerator is used for data augmentation to enhance model generalization.
 
 5. The dataset is split into training and validation sets using train_test_split
+
+B. Model Architecture
+
+1. Convolutional Layers - Feature extraction using Conv2D.
+2. MaxPooling Layers - Reduces spatial dimensions.
+3. Flatten Layer - Converts feature maps into a vector.
+4. Fully Connected (Dense) Layers - Performs classification.
+5. Dropout Layers - Prevents overfitting.
+6. Activation Function - Uses ReLU for hidden layers and Softmax for output.
+7. Optimizer - Adamax optimizer is employed for training.
