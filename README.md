@@ -49,3 +49,14 @@ D. Model Evaluation
 # Conclusion
 
 This project demonstrates the feasibility of using deep learning for brain tumor classification. The CNN model efficiently processes MRI scans and classifies them with promising accuracy. Further improvements can be made by fine-tuning hyperparameters, using larger datasets, or implementing advanced architectures such as transfer learning.
+
+![image](https://github.com/user-attachments/assets/23dc821c-05c5-481f-bd24-e859148de54e)
+![image](https://github.com/user-attachments/assets/c05b8e05-fb02-4de5-8cf2-33ea0f2df0a6)
+![image](https://github.com/user-attachments/assets/d938bd0a-522f-4e1d-9810-0069c7ebf12d)
+![image](https://github.com/user-attachments/assets/ebddb360-fd6a-4e18-91b8-bd28776335ae)
+
+
+
+
+
+
